@@ -1,160 +1,217 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4429,100:39d353&height=200&section=header&text=TAMAGHNA%20NAG&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Tech%20Lead%20%E2%80%A2%20SDE%203&descAlignY=58&descSize=16&animation=fadeIn" />
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a1a,70:0e4429,100:39d353&height=220&section=header&text=Tamaghna%20Nag&fontSize=58&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=Machine%20Learning%20Engineer%20%7C%20Tech%20Lead%20%7C%20SDE%203%20%40%20Nordstrom&descAlignY=58&descSize=15&descColor=39d353&animation=twinkling" />
 
 <!-- TYPING ANIMATION -->
-<a href="https://tamaghnatech.in/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=ML+Engineer+%40+Nordstrom+%F0%9F%9B%8D;Real-time+Systems+%7C+Computer+Vision;Traffic+Intelligence+%7C+Drone+Telemetry;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=🧠+Building+ML+systems+that+ship+to+production;🚦+Real-time+traffic+intelligence+%26+CV+systems;🚁+20Hz+drone+telemetry+pipelines+in+React;📍+Seattle+%7C+Nordstrom+%7C+Open+to+collabs" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tamaghna--nag-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamaghna-nag-100861160)
-[![Portfolio](https://img.shields.io/badge/Portfolio-tamaghnatech.in-39d353?style=for-the-badge&logo=vercel&logoColor=white)](https://tamaghnatech.in/)
-[![GitHub](https://img.shields.io/badge/GitHub-Tamaghnatech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tamaghnatech)
-![Location](https://img.shields.io/badge/📍_Seattle,_USA-Nordstrom-FF6B35?style=for-the-badge)
+<!-- BADGES ROW -->
+<a href="https://tamaghnatech.in/"><img src="https://img.shields.io/badge/🌐_Portfolio-tamaghnatech.in-39d353?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/tamaghna-nag-100861160"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<img src="https://komarev.com/ghpvc/?username=Tamaghnatech&color=39d353&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" />
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ABOUT ME -->
-## 🧠 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```python
 class TamaghnaNag:
-    role        = "SDE 3 — Machine Learning Engineer & Tech Lead @ Nordstrom"
-    location    = "Seattle, USA 🇺🇸"
-    focus       = ["Real-time ML Systems", "Computer Vision", "Telemetry Pipelines"]
-    dissertation = "SmartTrafficInsights — ML-powered traffic monitoring & signalling"
-    currently   = "Building production ML systems at scale"
-    reach_me_at = "https://tamaghnatech.in/"
 
-    def fun_fact(self):
-        return "I once built a real-time drone dashboard at 20Hz. For fun."
+    title    = "SDE 3 — ML Engineer & Tech Lead"
+    company  = "Nordstrom 🛍️"
+    location = "Seattle, USA 🌧️"
+
+    expertise = [
+        "Real-time Computer Vision Systems",
+        "ML Pipelines at Production Scale",
+        "Drone Telemetry & IoT Dashboards",
+        "Predictive Analytics & GLM Modelling",
+    ]
+
+    dissertation = {
+        "title": "SmartTrafficInsights",
+        "tech" : "Deep Learning + Neural Networks + CV",
+        "goal" : "Real-time traffic monitoring & signal AI"
+    }
+
+    currently_building = "Things that actually matter 🚀"
+    fun_fact = "Debugged a 20Hz drone feed at 2am. Worth it."
+
+    def reach_me(self):
+        return "https://tamaghnatech.in/"
 ```
+
+<br clear="right"/>
 
 ---
 
-<!-- TECH STACK -->
-## ⚙️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Languages & Frameworks**
-
+### 🤖 Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**ML / Data**
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Backend & Cloud**
-
+### ⚡ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-222222?style=flat-square&logo=gunicorn&logoColor=white)
 
-**Frontend & Tooling**
-
+### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 </div>
 
 ---
 
-<!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | What it does | Stack |
-|---|---|---|
-| [🚦 SmartTrafficInsights](https://github.com/Tamaghnatech/SmartTrafficInsights) | **Dissertation** — Real-time ML traffic monitoring & signal control using Deep Learning, CNNs & Computer Vision | `Python` `OpenCV` `Neural Networks` |
-| [🌧️ Meteorite Impact Forecasting](https://github.com/Tamaghnatech/meteorite-impact-forecasting) | Predicts future meteorite strike risk zones from historical data on a live world map | `Jupyter` `Pandas` `GeoPandas` |
-| [🔢 Handwritten Digit Recognition](https://github.com/Tamaghnatech/handwritten-digit-recognition) | CNN-based digit classifier — clean, accurate, production-style implementation | `Python` `TensorFlow` |
-| [📊 Insurance GLM Analyzer](https://github.com/Tamaghnatech/Insurance_GLM_Analyzer) | Poisson & Gamma GLM-based insurance claim prediction & risk analysis | `R` `HTML` `GLM` |
-| [🎮 Pacman Game](https://github.com/Tamaghnatech/pacman_game) | Classic Pac-Man rebuilt from scratch — nostalgia with clean code | `JavaScript` |
-| [📸 Instagram Clone](https://github.com/Tamaghnatech/instagram-clone) | Full Instagram UI clone — auth, feed, posts, follows | `JavaScript` |
+| 🏷️ Project | 📌 What It Does | 🔧 Stack | 🎯 |
+|:---|:---|:---|:---:|
+| [🚦 SmartTrafficInsights](https://github.com/Tamaghnatech/SmartTrafficInsights) | **Dissertation** — Real-time ML traffic monitoring & adaptive signal control via Deep Learning + Neural Nets + Computer Vision | `Python` `OpenCV` `TensorFlow` `CV` | 🔬 |
+| [🌧️ Meteorite Impact Forecasting](https://github.com/Tamaghnatech/meteorite-impact-forecasting) | Predicts future strike risk zones from 100+ years of impact data, visualized on a live world map | `Jupyter` `Pandas` `GeoPandas` `Folium` | 🗺️ |
+| [✍️ Handwritten Digit Recognition](https://github.com/Tamaghnatech/handwritten-digit-recognition) | Production-grade CNN digit classifier — clean architecture, high accuracy | `Python` `TensorFlow` `CNN` | 🧠 |
+| [📊 Insurance GLM Analyzer](https://github.com/Tamaghnatech/Insurance_GLM_Analyzer) | Poisson & Gamma GLM-based insurance claim prediction & actuarial risk modelling | `R` `GLM` `HTML` | 📈 |
+| [🎮 Pacman Game](https://github.com/Tamaghnatech/pacman_game) | Classic Pac-Man rebuilt from scratch — pure JS, zero dependencies | `JavaScript` `HTML Canvas` | 🕹️ |
+| [📸 Instagram Clone](https://github.com/Tamaghnatech/instagram-clone) | Full-stack Instagram UI — auth, feed, posts, follow system | `JavaScript` `Firebase` | 📱 |
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tamaghnatech&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_radius=12&ring_color=39d353&title_color=39d353&icon_color=39d353"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamaghnatech&layout=compact&theme=github_dark_dimmed&border_radius=12&title_color=39d353&langs_count=8"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Tamaghnatech&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_radius=10&border_color=30363d&ring_color=39d353&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&hide=contribs&custom_title=Tamaghna's+GitHub+Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamaghnatech&layout=donut&theme=github_dark_dimmed&border_radius=10&border_color=30363d&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most+Used+Languages" />
+    </td>
+  </tr>
+</table>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tamaghnatech&theme=github-dark-blue&border_radius=12&ring=39d353&fire=39d353&currStreakLabel=39d353" />
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tamaghnatech&theme=github-compact&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true)](https://github.com/Tamaghnatech)
-
-</div>
-
----
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Tamaghnatech&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- STREAK - using demolab which is stable -->
+<img src="https://streak-stats.demolab.com?user=Tamaghnatech&theme=github-dark-blue&border_radius=10&border=30363D&ring=39D353&fire=FF6B35&currStreakLabel=39D353&dates=8B949E&stroke=30363D&background=0D1117&sideNums=C9D1D9&currStreakNum=39D353&sideLabels=8B949E&hide_total_contributions=false" />
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-## 🐍 Contribution Snake
+## 🌿 Contribution Activity
 
 <div align="center">
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tamaghnatech&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area_color=0e4429&area=true&hide_border=true&custom_title=Tamaghna's+Contribution+Timeline&radius=6)](https://github.com/Tamaghnatech)
+
+</div>
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tamaghnatech&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamaghnatech/Tamaghnatech/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamaghnatech/Tamaghnatech/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Tamaghnatech/Tamaghnatech/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Tamaghnatech/Tamaghnatech/output/github-snake-dark.svg" />
 </picture>
-
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0e4429,100:0d1117&height=120&section=footer" />
+### 💬 Let's Build Something Ambitious
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tamaghnatech&color=39d353&style=flat-square&label=Profile+Views)
+*Open to collaborations in ML, Computer Vision, real-time systems, and anything with impact.*
 
-*"The best code is code that solves real problems."*
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-tamaghnatech.in-39d353?style=for-the-badge&labelColor=0d1117)](https://tamaghnatech.in/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/tamaghna-nag-100861160)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,40:0e4429,100:0d1117&height=100&section=footer" />
 
 </div>
+
+<!-- ============================================================
+  🐍 SNAKE ANIMATION SETUP
+  Create this file in your repo: .github/workflows/snake.yml
+  ============================================================
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Tamaghnatech
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+============================================================ -->

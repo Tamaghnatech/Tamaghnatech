@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2a1a,70:0e4429,100:39d353&height=220&section=header&text=Tamaghna%20Nag&fontSize=58&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=Machine%20Learning%20Engineer%20%7C%20Tech%20Lead%20%7C%20SDE%203%20%40%20Nordstrom&descAlignY=58&descSize=15&descColor=39d353&animation=twinkling" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=🧠+Building+ML+systems+that+ship+to+production;🚦+Real-time+traffic+intelligence+%26+CV+systems;🚁+20Hz+drone+telemetry+pipelines+in+React;📍+Seattle+%7C+Nordstrom+%7C+Open+to+collabs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Building+ML+systems+that+ship+to+production;Real-time+traffic+intelligence+%26+CV+systems;20Hz+drone+telemetry+pipelines+in+React;Seattle+%7C+Nordstrom+%7C+Open+to+collabs" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,9 +19,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 👋 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ```python
 class TamaghnaNag:
